@@ -5,10 +5,10 @@
 -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
- id        = "kz.smartpavlodar"
-      version   = "0.0.75">
+ id        = "kz.lifefitnessclub"
+      version   = "0.0.1">
 
-    <name>Smart Pavlodar</name>
+    <name>LifeFintess Club</name>
 
     <description>
 «SMART Павлодар» - это многофункциональная мобильная система
