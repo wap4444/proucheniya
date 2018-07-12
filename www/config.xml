@@ -5,10 +5,10 @@
 -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
- id        = "kz.lifefitnessclub"
+ id        = "kz.porucheniya"
       version   = "0.0.3">
 
-    <name>SmartPay</name>
+    <name>Поручения</name>
 
     <description>
 «SMART Павлодар» - это многофункциональная мобильная система
